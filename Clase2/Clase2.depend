@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1505331436 source:d:\arquitectura\clase2\main.cpp
+	<iostream>
+	<string>
+	<math.h>
+
